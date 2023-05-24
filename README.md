@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-Hotel Booking Dataset
+Airbnb Bookings Dataset
